@@ -1,0 +1,678 @@
+TEMSingleViewProject01
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/PrecompiledHeaders/EMSingleViewProject01-Prefix-hihjacgpxnkosldehpbsvdflcefi/EMSingleViewProject01-Prefix.pch.pch EMSingleViewProject01/EMSingleViewProject01-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/ViewController.o /Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/AppDelegate.o /Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/main.o /Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/EMSingleViewProject01 normal i386
+cCopyStringsFile /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/en.lproj/InfoPlist.strings EMSingleViewProject01/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app /Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/Images.xcassets
+cProcessInfoPlistFile /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/Info.plist /Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/EMSingleViewProject01-Info.plist
+cGenerateDSYMFile /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app.dSYM /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/EMSingleViewProject01
+cTouch /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c0000000052CDB47800000000000003B5
+t1389212792
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052CDB47C00000000000001A0
+t1389212796
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000052CDB47D00000000005838D0
+t1389212797
+s5781712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000052CDB47D00000000005B82A0
+t1389212797
+s5997216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052CDB47D0000000000445870
+t1389212797
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c0000000052CDB47D0000000000355050
+t1389212797
+s3493968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c0000000052CDB47D00000000002F6810
+t1389212797
+s3106832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000052CDB47D000000000004B000
+t1389212797
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052CDB47E000000000088C680
+t1389212798
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c0000000052CDB47E0000000000037620
+t1389212798
+s226848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000052CDB47E00000000004848F0
+t1389212798
+s4737264
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000052CDB47E00000000001290B0
+t1389212798
+s1216688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000052CDB4800000000001DB9910
+t1389212800
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c0000000052CDB48500000000002B9F20
+t1389212805
+s2858784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+c0000000052CDB4880000000000002338
+t1389212808
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+c0000000052CDB488000000000008D300
+t1389212808
+s578304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+c0000000052CDB488000000000038ACB0
+t1389212808
+s3714224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+c000000005271FC2900000000000141F0
+t1383201833
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+c0000000052CDB4880000000000013500
+t1389212808
+s79104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c0000000052CDB4880000000000033BA0
+t1389212808
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c0000000052CDB488000000000001CFB0
+t1389212808
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+c0000000052CDB488000000000001B2B0
+t1389212808
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+c0000000052CDB48800000000000632B0
+t1389212808
+s406192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+c0000000052CDB4880000000000008880
+t1389212808
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+c0000000052CDB4880000000000015080
+t1389212808
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+c0000000052CDB48800000000000230E0
+t1389212808
+s143584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+c0000000052CDB488000000000000E380
+t1389212808
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+c0000000052CDB4880000000000087200
+t1389212808
+s553472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+c0000000052CDB48800000000000171A0
+t1389212808
+s94624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c0000000052CDB4880000000000039C10
+t1389212808
+s236560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c0000000052CDB488000000000000B0B0
+t1389212808
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+c0000000052CDB4880000000000167FE0
+t1389212808
+s1474528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c0000000052CDB48800000000000106A0
+t1389212808
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c0000000052CDB488000000000001CE40
+t1389212808
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+c0000000052CDB4880000000000071040
+t1389212808
+s462912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+c0000000052CDB4880000000000067A10
+t1389212808
+s424464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+c0000000052CDB488000000000001BAD0
+t1389212808
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+c0000000052CDB4880000000000088BA0
+t1389212808
+s560032
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c0000000052CDB4920000000000000AC9
+t1389212818
+s2761
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c0000000052CDB4920000000000005004
+t1389212818
+s20484
+
+N/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/AppDelegate.o
+t1390143213
+s65288
+
+N/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/EMSingleViewProject01.LinkFileList
+c0000000052DBE6EC000000000000021E
+t1390143212
+s542
+
+N/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/ViewController.o
+t1390143213
+s41068
+
+N/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/main.o
+t1390143213
+s3712
+
+N/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/assetcatalog_dependencies.txt
+t1390143214
+s463
+
+N/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/assetcatalog_generated_info.plist
+t1390143214
+s525
+
+N/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/PrecompiledHeaders/EMSingleViewProject01-Prefix-hihjacgpxnkosldehpbsvdflcefi/EMSingleViewProject01-Prefix.pch.pch
+t1390143213
+s108376
+
+N/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app
+t1390143214
+s306
+
+N/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app.dSYM
+t1390143214
+s102
+
+N/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/Base.lproj/Main.storyboardc
+t1390143214
+s170
+
+N/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/EMSingleViewProject01
+t1390143213
+s17160
+
+N/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/Info.plist
+t1390143214
+s1057
+
+N/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/PkgInfo
+t1390143214
+s8
+
+N/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/en.lproj/InfoPlist.strings
+t1390143213
+s42
+
+N/Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/AppDelegate.h
+c0000000052DBE6CA0000000000000127
+t1390143178
+s295
+
+N/Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/AppDelegate.m
+c0000000052DBE6CA00000000000007E9
+t1390143178
+s2025
+
+N/Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/Base.lproj/Main.storyboard
+c0000000052DBE6EC0000000000000AAB
+t1390143212
+s2731
+
+N/Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/EMSingleViewProject01-Info.plist
+c0000000052DBE6CA00000000000004C7
+t1390143178
+s1223
+
+N/Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/EMSingleViewProject01-Prefix.pch
+c0000000052DBE6CA0000000000000158
+t1390143178
+s344
+
+N/Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/Images.xcassets
+c0000000052DBE6CA0000000000000088
+t1390143178
+s136
+
+N/Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/ViewController.h
+c0000000052DBE6CA00000000000000E9
+t1390143178
+s233
+
+N/Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/ViewController.m
+c0000000052DBE6CA00000000000001FF
+t1390143178
+s511
+
+N/Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/en.lproj/InfoPlist.strings
+c0000000052DBE6CA000000000000002D
+t1390143178
+s45
+
+N/Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/main.m
+c0000000052DBE6CA0000000000000163
+t1390143178
+s355
+
+N/usr/lib/libSystem.B.dylib
+c000000005271FC1D000000000000E6D0
+t1383201821
+s59088
+
+N/usr/lib/system/libcache.dylib
+c000000005271FC290000000000012A00
+t1383201833
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c000000005271FC11000000000002E320
+t1383201809
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c000000005271FC1D0000000000021860
+t1383201821
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c000000005271FC29000000000001B620
+t1383201833
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005271FC2900000000000BD920
+t1383201833
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c000000005271FC2900000000000141F0
+t1383201833
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c000000005271FC29000000000000A120
+t1383201833
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c000000005271FC29000000000001D550
+t1383201833
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c000000005271FC290000000000014EE0
+t1383201833
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c000000005271FC2B0000000000010380
+t1383201835
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c000000005271FC2B000000000000C4C0
+t1383201835
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005271FC2900000000000357A0
+t1383201833
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c000000005271FC29000000000000C070
+t1383201833
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c000000005271FC1D0000000000168C00
+t1383201821
+s1477632
+
+N/usr/lib/system/libsystem_configuration.dylib
+c000000005271FC290000000000010630
+t1383201833
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c000000005271FC2A000000000001DF10
+t1383201834
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c000000005271FC1D0000000000075B00
+t1383201821
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000052CF3691000000000007CC70
+t1389311633
+s511088
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005271FC1D00000000000766C0
+t1383201821
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c000000005271FC2A0000000000044DC0
+t1383201834
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c000000005271FC1D0000000000021FA0
+t1383201821
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c000000005271FC2A000000000002D900
+t1383201834
+s186624
+
+N/usr/lib/system/libsystem_pthread.dylib
+c000000005271FC2A000000000001E570
+t1383201834
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c000000005271FC23000000000000CC70
+t1383201827
+s52336
+
+N/usr/lib/system/libunc.dylib
+c000000005271FC25000000000000C3F0
+t1383201829
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005271FC2A00000000000199F0
+t1383201834
+s104944
+
+CBuild AST from /Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/AppDelegate.m
+r0
+
+CBuild AST from /Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/ViewController.m
+r0
+
+CBuild AST from /Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies4086b6991e8cb841^e7c8b6991e8cb841^---0#1#1#--18"Check dependencies36"4AD9A328-C6D5-49E8-8E99-83354233FD36-
+
+CCompileAssetCatalog /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app /Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/Images.xcassets
+s411836013.712729
+e411836014.372600
+r1
+xCompileAssetCatalog
+x/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app
+x/Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/LaunchImage-700-568h@2x.png
+o/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/Assets.car
+o/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"CompileAssetCatalog Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app EMSingleViewProject01/Images.xcassets120"CompileAssetCatalog Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app EMSingleViewProject01/Images.xcassets2c7fb66d1e8cb841^3d635f6e1e8cb841^-491"/* com.apple.actool.compilation-results *//Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/LaunchImage-700-568h@2x.png/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/Assets.car/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@95"file:///Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/Images.xcassets/0000000000000000^1305"CompileAssetCatalog Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app EMSingleViewProject01/Images.xcassets    cd /Users/mg/Desktop/Workspace/EMSingleViewProject01    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app /Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/Images.xcassets36"0C883AD2-13C2-4CA4-92BF-1843169C7145-
+bB6060FC4-DFCF-4D33-AE82-87EF8B125FF4
+
+CCompileC Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/AppDelegate.o /Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411836013.512652
+e411836013.590393
+r1
+xCompileC
+xBuild/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/AppDelegate.o
+x/Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/AppDelegate.m
+d/Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/AppDelegate.m244"CompileC Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/AppDelegate.o EMSingleViewProject01/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera14c836d1e8cb841^7025976d1e8cb841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/AppDelegate.m0000000000000000^4182"CompileC Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/AppDelegate.o EMSingleViewProject01/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mg/Desktop/Workspace/EMSingleViewProject01    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/mg/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/EMSingleViewProject01-generated-files.hmap -I/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/EMSingleViewProject01-own-target-headers.hmap -I/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/EMSingleViewProject01-all-target-headers.hmap -iquote /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/EMSingleViewProject01-project-headers.hmap -I/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/DerivedSources/i386 -I/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/DerivedSources -F/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator -include /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/PrecompiledHeaders/EMSingleViewProject01-Prefix-hihjacgpxnkosldehpbsvdflcefi/EMSingleViewProject01-Prefix.pch -MMD -MT dependencies -MF /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/AppDelegate.dia -c /Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/AppDelegate.m -o /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/AppDelegate.o36"24A89345-09D9-4F44-A560-A27274E63B49-
+bB6060FC4-DFCF-4D33-AE82-87EF8B125FF4
+
+CCompileC Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/ViewController.o /Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411836013.512487
+e411836013.589250
+r1
+xCompileC
+xBuild/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/ViewController.o
+x/Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/ViewController.m
+d/Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/ViewController.m250"CompileC Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/ViewController.o EMSingleViewProject01/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5f44836d1e8cb841^12da966d1e8cb841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/ViewController.m0000000000000000^4200"CompileC Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/ViewController.o EMSingleViewProject01/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mg/Desktop/Workspace/EMSingleViewProject01    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/mg/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/EMSingleViewProject01-generated-files.hmap -I/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/EMSingleViewProject01-own-target-headers.hmap -I/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/EMSingleViewProject01-all-target-headers.hmap -iquote /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/EMSingleViewProject01-project-headers.hmap -I/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/DerivedSources/i386 -I/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/DerivedSources -F/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator -include /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/PrecompiledHeaders/EMSingleViewProject01-Prefix-hihjacgpxnkosldehpbsvdflcefi/EMSingleViewProject01-Prefix.pch -MMD -MT dependencies -MF /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/ViewController.dia -c /Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/ViewController.m -o /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/ViewController.o36"08CC079E-1B18-4F4D-9EAF-77CCE1919362-
+bB6060FC4-DFCF-4D33-AE82-87EF8B125FF4
+
+CCompileC Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/main.o /Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411836013.512810
+e411836013.587859
+r1
+xCompileC
+xBuild/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/main.o
+x/Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/main.m
+d/Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/main.m230"CompileC Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/main.o EMSingleViewProject01/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerce55836d1e8cb841^b77e966d1e8cb841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/main.m0000000000000000^4140"CompileC Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/main.o EMSingleViewProject01/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mg/Desktop/Workspace/EMSingleViewProject01    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/mg/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/EMSingleViewProject01-generated-files.hmap -I/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/EMSingleViewProject01-own-target-headers.hmap -I/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/EMSingleViewProject01-all-target-headers.hmap -iquote /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/EMSingleViewProject01-project-headers.hmap -I/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/DerivedSources/i386 -I/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/DerivedSources -F/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator -include /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/PrecompiledHeaders/EMSingleViewProject01-Prefix-hihjacgpxnkosldehpbsvdflcefi/EMSingleViewProject01-Prefix.pch -MMD -MT dependencies -MF /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/main.dia -c /Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/main.m -o /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/main.o36"48BDA467-2B9A-463F-8B42-688DA6ED9A35-
+bB6060FC4-DFCF-4D33-AE82-87EF8B125FF4
+
+CCompileStoryboard /Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/Base.lproj/Main.storyboard
+s411836013.712495
+e411836014.045574
+r1
+xCompileStoryboard
+x/Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"CompileStoryboard EMSingleViewProject01/Base.lproj/Main.storyboard66"CompileStoryboard EMSingleViewProject01/Base.lproj/Main.storyboardbd71b66d1e8cb841^2eac0b6e1e8cb841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/Base.lproj/Main.storyboard0000000000000000^914"CompileStoryboard EMSingleViewProject01/Base.lproj/Main.storyboard    cd /Users/mg/Desktop/Workspace/EMSingleViewProject01    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/Base.lproj/Main.storyboardc /Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/Base.lproj/Main.storyboard36"9272755A-58D1-49BC-9BBB-4116A1C47960-
+bB6060FC4-DFCF-4D33-AE82-87EF8B125FF4
+
+CCopyStringsFile /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/en.lproj/InfoPlist.strings EMSingleViewProject01/en.lproj/InfoPlist.strings
+s411836013.712379
+e411836013.713225
+r1
+xCopyStringsFile
+x/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/en.lproj/InfoPlist.strings
+xEMSingleViewProject01/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy EMSingleViewProject01/en.lproj/InfoPlist.strings154"CopyStringsFile Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/en.lproj/InfoPlist.strings EMSingleViewProject01/en.lproj/InfoPlist.stringsf06db66d1e8cb841^9e97b66d1e8cb841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/en.lproj/InfoPlist.strings0000000000000000^671"CopyStringsFile Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/en.lproj/InfoPlist.strings EMSingleViewProject01/en.lproj/InfoPlist.strings    cd /Users/mg/Desktop/Workspace/EMSingleViewProject01    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/en.lproj -- EMSingleViewProject01/en.lproj/InfoPlist.strings36"AD1C527F-0ABE-47FE-AF19-5AEA094E7FA2-
+bB6060FC4-DFCF-4D33-AE82-87EF8B125FF4
+
+CGenerateDSYMFile /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app.dSYM /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/EMSingleViewProject01
+s411836014.374790
+e411836014.397916
+r1
+xGenerateDSYMFile
+x/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app.dSYM
+x/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/EMSingleViewProject01
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Generate /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app.dSYM169"GenerateDSYMFile Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app.dSYM Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/EMSingleViewProject01b1fa5f6e1e8cb841^59de656e1e8cb841^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app.dSYM0034287ddfffdf42^778"GenerateDSYMFile Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app.dSYM Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/EMSingleViewProject01    cd /Users/mg/Desktop/Workspace/EMSingleViewProject01    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/EMSingleViewProject01 -o /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app.dSYM36"95F2B990-392A-401A-AE48-35646BCBE020-
+bB6060FC4-DFCF-4D33-AE82-87EF8B125FF4
+
+CLd /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/EMSingleViewProject01 normal i386
+s411836013.590905
+e411836013.711752
+r1
+xLd
+x/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/EMSingleViewProject01
+xnormal
+xi386
+d/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/EMSingleViewProject01.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/ViewController.o
+d/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/AppDelegate.o
+d/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"Link /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/EMSingleViewProject0199"Ld Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/EMSingleViewProject01 normal i3864452976d1e8cb841^7e36b66d1e8cb841^---0#0#1#--1595"Ld Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/EMSingleViewProject01 normal i386    cd /Users/mg/Desktop/Workspace/EMSingleViewProject01    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator -F/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator -filelist /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/EMSingleViewProject01.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/Objects-normal/i386/EMSingleViewProject01_dependency_info.dat -o /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/EMSingleViewProject0136"588C6931-F9E4-4BA9-B78A-32B6C3258E66-
+bB6060FC4-DFCF-4D33-AE82-87EF8B125FF4
+
+CProcessInfoPlistFile /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/Info.plist /Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/EMSingleViewProject01-Info.plist
+s411836014.373065
+e411836014.374438
+r1
+xProcessInfoPlistFile
+x/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/Info.plist
+x/Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/EMSingleViewProject01-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Process /Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/EMSingleViewProject01-Info.plist149"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/Info.plist EMSingleViewProject01/EMSingleViewProject01-Info.plist878c5f6e1e8cb841^66dd5f6e1e8cb841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/EMSingleViewProject01-Info.plist0000000000000000^1063"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/Info.plist EMSingleViewProject01/EMSingleViewProject01-Info.plist    cd /Users/mg/Desktop/Workspace/EMSingleViewProject01    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/EMSingleViewProject01-Info.plist -genpkginfo /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/assetcatalog_generated_info.plist -o /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app/Info.plist36"F57ADCBD-0CB4-4C36-9211-811E952B7C62-
+bB6060FC4-DFCF-4D33-AE82-87EF8B125FF4
+
+CProcessPCH /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/PrecompiledHeaders/EMSingleViewProject01-Prefix-hihjacgpxnkosldehpbsvdflcefi/EMSingleViewProject01-Prefix.pch.pch EMSingleViewProject01/EMSingleViewProject01-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411836012.809901
+e411836013.511910
+r1
+xProcessPCH
+x/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/PrecompiledHeaders/EMSingleViewProject01-Prefix-hihjacgpxnkosldehpbsvdflcefi/EMSingleViewProject01-Prefix.pch.pch
+xEMSingleViewProject01/EMSingleViewProject01-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/EMSingleViewProject01-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Precompile EMSingleViewProject01/EMSingleViewProject01-Prefix.pch267"ProcessPCH Build/Intermediates/PrecompiledHeaders/EMSingleViewProject01-Prefix-hihjacgpxnkosldehpbsvdflcefi/EMSingleViewProject01-Prefix.pch.pch EMSingleViewProject01/EMSingleViewProject01-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4a96cf6c1e8cb841^0f0d836d1e8cb841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/EMSingleViewProject01-Prefix.pch0000000000000000^4044"ProcessPCH Build/Intermediates/PrecompiledHeaders/EMSingleViewProject01-Prefix-hihjacgpxnkosldehpbsvdflcefi/EMSingleViewProject01-Prefix.pch.pch EMSingleViewProject01/EMSingleViewProject01-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mg/Desktop/Workspace/EMSingleViewProject01    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/mg/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/EMSingleViewProject01-generated-files.hmap -I/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/EMSingleViewProject01-own-target-headers.hmap -I/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/EMSingleViewProject01-all-target-headers.hmap -iquote /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/EMSingleViewProject01-project-headers.hmap -I/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/DerivedSources/i386 -I/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/EMSingleViewProject01.build/Debug-iphonesimulator/EMSingleViewProject01.build/DerivedSources -F/Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/PrecompiledHeaders/EMSingleViewProject01-Prefix-hihjacgpxnkosldehpbsvdflcefi/EMSingleViewProject01-Prefix.pch.dia -MMD -MT dependencies -MF /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/PrecompiledHeaders/EMSingleViewProject01-Prefix-hihjacgpxnkosldehpbsvdflcefi/EMSingleViewProject01-Prefix.pch.d -c /Users/mg/Desktop/Workspace/EMSingleViewProject01/EMSingleViewProject01/EMSingleViewProject01-Prefix.pch -o /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Intermediates/PrecompiledHeaders/EMSingleViewProject01-Prefix-hihjacgpxnkosldehpbsvdflcefi/EMSingleViewProject01-Prefix.pch.pch36"F33DB4C3-3C68-432C-AEBC-64FF3B28713E-
+bB6060FC4-DFCF-4D33-AE82-87EF8B125FF4
+
+CProcessPCH /Users/mg/Library/Developer/Xcode/DerivedData/EMSingleViewProject01-exmvitrkgnzudqeyufgvnsfoeksk/Index/PrecompiledHeaders/EMSingleViewProject01-Prefix-eadfahlzeoxdmjbyeddiughwrmbb_ast/EMSingleViewProject01-Prefix.pch.pch EMSingleViewProject01/EMSingleViewProject01-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/mg/Desktop/Workspace/EMSingleViewProject01/Build/Products/Debug-iphonesimulator/EMSingleViewProject01.app
+r0
+
